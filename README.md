@@ -18,7 +18,7 @@
  </a> 
  <!-- LeetCode -->
  <a 
-    href="https://leetcode.com/Rishi8104/"
+    href="https://leetcode.com/Rishi5520/"
     target="blank">
     <img 
         src="https://raw.githubusercontent.com/Rishabh2804/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
@@ -58,17 +58,17 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rishi8104&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=Rishi5520&show_icons=true&theme=radical)
 <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rishi8104&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rishi5520&theme=dark&hide_border=false)
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi8104&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi5520&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br/>
 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rishi8104&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi8104&size_weight=0.5&count_weight=0.5)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi5520&size_weight=0.5&count_weight=0.5)
 <br/>
 # Rishi8104
